@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap");
+
+.user {
+  font-family: "Teko", sans-serif;
+  font-size: 2rem;
+  width: 90%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.userList {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding-left: 0.2em;
+}
+
+.user {
+  width: 40rem;
+  padding: 4px;
+}

@@ -1,0 +1,12 @@
+.userDetails {
+  display: flex;
+  border: 1px solid black;
+  padding-left: 0.2em;
+  align-items: center;
+}
+
+.user {
+  width: 20rem;
+  padding-left: 1em;
+  font-size: 1.5rem !important;
+}

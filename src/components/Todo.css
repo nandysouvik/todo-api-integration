@@ -1,0 +1,19 @@
+.todoDetails {
+  display: flex;
+  border: 1px solid black;
+  padding-left: 0.2em;
+  align-items: center;
+}
+
+.todo {
+  width: 20rem;
+  padding-left: 1em;
+  font-size: 1.5rem !important;
+}
+
+.todoButton {
+  padding: 5px;
+  border: 1px solid #8888;
+  width: 5em;
+  text-align: center;
+}
